@@ -1,0 +1,20 @@
+{
+  "name": "20171122_rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "eggp",
+  "devDependencies": {
+    "@types/node": "^8.0.53",
+    "awesome-typescript-loader": "^3.4.0",
+    "typescript": "~2.3.3",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "dependencies": {
+    "rxjs": "^5.4.2",
+    "striptags": "^3.1.0"
+  }
+}
